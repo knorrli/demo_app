@@ -1,0 +1,1 @@
+Demo app, created from rails tutorial by (*http://railstutorial.com/*)
